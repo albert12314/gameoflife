@@ -7,6 +7,7 @@ var matrix = [];
 function setup() {
     var row = 70, column = 70;
 
+    
     for (var y = 0; y < row; ++y) {
         matrix[y] = [];
 

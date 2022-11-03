@@ -7,6 +7,7 @@ class GrassEater {
         this.directions = [];
     }
 
+    
 
 
     chooseCell(character) {

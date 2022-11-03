@@ -7,6 +7,7 @@ class GrassEaterEater {
         this.directions = [];
     }
 
+    
     chooseCell(character) {
         this.getNewCoordinates();
         var found = [];
